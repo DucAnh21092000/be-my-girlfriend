@@ -3,7 +3,7 @@
 .timeline-title {
   margin-bottom: 40px;
   margin-top: 64px;
-  position: sticky;
+  position: fixed;
   top: 0px;
   background: #ffd1e1;
   z-index: 99;
