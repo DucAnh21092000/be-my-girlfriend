@@ -2,9 +2,9 @@
 
 .timeline-title {
   margin-bottom: 40px;
-  margin-top: 1064px;
+  margin-top: 64px;
   position: sticky;
-  top: -40px;
+  top: 0px;
   background: #ffd1e1;
   z-index: 99;
   width: 100%;
